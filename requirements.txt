@@ -7,4 +7,3 @@ openpyxl
 plotly.express
 datetime
 psycopg2-binary
-io
