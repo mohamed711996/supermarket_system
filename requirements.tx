@@ -1,0 +1,10 @@
+pandas
+streamlit
+numpy
+xgboost
+scikit-learn
+openpyxl
+plotly.express
+datetime
+psycopg2
+io
