@@ -6,5 +6,5 @@ scikit-learn
 openpyxl
 plotly.express
 datetime
-psycopg2
+psycopg2-binary
 io
